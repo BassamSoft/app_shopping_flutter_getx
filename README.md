@@ -1,4 +1,4 @@
-# flutter_application_5
+# app_shopping_flutter_getx
 
 A new Flutter project.
 
